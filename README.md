@@ -1,59 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:F59E0B,100:111827&text=Nguyen%20Phi%20Hung&fontColor=FFFFFF&fontSize=48&fontAlignY=37&desc=EinsteinDavang%20%7C%20Fullstack%20Developer%20from%20Vietnam&descSize=16&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,45:7C3AED,100:F59E0B&text=Nguyen%20Phi%20Hung&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=EinsteinDavang%20%7C%20Fullstack%20Developer%20from%20Vietnam&descSize=16&descAlignY=58" alt="Nguyen Phi Hung header" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=850&lines=Building+clean+fullstack+products;React+%2B+TypeScript+%2B+.NET;Learning+fast%2C+shipping+faster;Turning+ideas+into+real+software" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=850&lines=Fullstack+Developer;React+%2B+TypeScript+%2B+ASP.NET+Core;Building+clean+and+practical+software;Learning+fast.+Shipping+better." alt="Typing animation" />
 
-<p>
-  <a href="https://github.com/EinsteinDavang">
-    <img src="https://img.shields.io/badge/GitHub-EinsteinDavang-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=EinsteinDavang&style=for-the-badge&color=F59E0B" alt="Profile views" />
-</p>
+<br />
+<br />
+
+<a href="https://github.com/EinsteinDavang">
+  <img src="https://img.shields.io/badge/GitHub-EinsteinDavang-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=EinsteinDavang&style=for-the-badge&color=F59E0B" alt="Profile views" />
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 Developer Identity
 
 ```txt
-Name      : Nguyen Phi Hung
-Username  : EinsteinDavang
-Location  : Vietnam 🇻🇳
-Role      : Fullstack Developer
-Focus     : Web apps, clean UI, REST APIs, database design
-Mindset   : Learn deeply. Build practically. Improve continuously.
+Name       : Nguyen Phi Hung
+Username   : EinsteinDavang
+Location   : Vietnam 🇻🇳
+Role       : Fullstack Developer
+Main Stack : React | TypeScript | ASP.NET Core | PostgreSQL
+Mindset    : Build real products. Improve every version.
 ```
 
-I am a developer who enjoys turning rough ideas into real products.  
-My favorite kind of work is where **frontend experience**, **backend logic**, and **database design** connect together into something usable.
+I enjoy building web applications where **clean UI**, **reliable backend logic**, and **well-structured data** work together.  
+My goal is to turn student projects and ideas into products that feel practical, maintainable, and portfolio-ready.
 
 ---
 
-## 🧭 My Developer Compass
+## 🧭 What I Build
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>⚡ I like building</h3>
+    <td width="50%" valign="top">
+      <h3>⚡ Product Areas</h3>
       <ul>
         <li>Authentication flows</li>
         <li>Admin dashboards</li>
         <li>Booking systems</li>
         <li>Learning platforms</li>
-        <li>Clean and responsive interfaces</li>
+        <li>Responsive frontend interfaces</li>
       </ul>
     </td>
-    <td width="50%">
-      <h3>🚀 I am improving</h3>
+    <td width="50%" valign="top">
+      <h3>🚀 Engineering Focus</h3>
       <ul>
-        <li>ASP.NET Core architecture</li>
+        <li>Clean frontend structure</li>
+        <li>REST API integration</li>
         <li>Database modeling</li>
-        <li>API design and integration</li>
-        <li>Frontend structure</li>
+        <li>ASP.NET Core architecture</li>
         <li>Production-ready coding habits</li>
       </ul>
     </td>
@@ -70,10 +69,10 @@ My favorite kind of work is where **frontend experience**, **backend logic**, an
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap" alt="Frontend skills" />
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,postgres,mysql,mongodb,firebase" alt="Backend skills" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,postgres,mysql,mongodb,firebase" alt="Backend and database skills" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,figma,visualstudio,vscode" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,figma,visualstudio,vscode" alt="Developer tools" />
 
 </div>
 
@@ -93,7 +92,7 @@ My favorite kind of work is where **frontend experience**, **backend logic**, an
       <h3>🏸 Badminton Booking Platform</h3>
       <p>A court booking platform designed for real-world booking flow and user experience.</p>
       <p><b>Stack:</b> React, UI components, booking logic</p>
-      <p><b>Focus:</b> Filters, checkout flow, user interaction</p>
+      <p><b>Focus:</b> Filtering, checkout flow, user interaction</p>
     </td>
     <td width="33%" valign="top">
       <h3>🔐 MOS Auth Pages</h3>
@@ -108,20 +107,23 @@ My favorite kind of work is where **frontend experience**, **backend logic**, an
 
 ## 📊 GitHub Signal
 
+> I removed the unstable `github-readme-stats` cards here to avoid broken images on the profile.
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EinsteinDavang&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EinsteinDavang&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EinsteinDavang&theme=tokyonight" alt="GitHub profile summary" />
 
 <br />
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EinsteinDavang&theme=tokyonight" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EinsteinDavang&theme=tokyonight" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EinsteinDavang&theme=tokyonight" alt="Most commit language" />
 
 <br />
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EinsteinDavang&theme=tokyo-night&hide_border=true&radius=12" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EinsteinDavang&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EinsteinDavang&theme=tokyonight&utcOffset=7" alt="Productive time" />
 
 </div>
 
@@ -145,8 +147,8 @@ Store data properly
 Refactor until it feels maintainable
 ```
 
-I believe a good project is not only about features.  
-It should be **understandable**, **maintainable**, and **easy to improve**.
+Good software is not only about adding features.  
+It should be understandable, maintainable, and easy to improve.
 
 ---
 
@@ -159,7 +161,7 @@ It should be **understandable**, **maintainable**, and **easy to improve**.
   </tr>
   <tr>
     <td>📚 Learning</td>
-    <td>Clean Architecture, system design basics, Docker, better UI structure</td>
+    <td>Clean Architecture, Docker, API design, better UI structure</td>
   </tr>
   <tr>
     <td>🎯 Goal</td>
@@ -194,6 +196,6 @@ Status:
 
 ### “Great software is built by small improvements repeated consistently.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:F59E0B,100:0F172A" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,45:7C3AED,100:F59E0B" alt="Footer" />
 
 </div>
