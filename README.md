@@ -83,10 +83,17 @@ My goal is to turn student projects and ideas into products that feel practical,
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🎓 Cursus Learning Platform</h3>
-      <p>A learning platform with courses, images, certificates, users, and backend services.</p>
-      <p><b>Stack:</b> ASP.NET Core, PostgreSQL, Firebase Storage, Docker</p>
-      <p><b>Focus:</b> Layered architecture, APIs, storage integration</p>
+      <h3>🎓 UAP Learning Platform</h3>
+      <p>
+        A modern learning platform that manages courses, users, media storage,
+        certificates, backend services, and blockchain-powered certificate validation.
+      </p>
+      <p>
+        <b>Stack:</b> ASP.NET Core, PostgreSQL, Firebase Storage, Docker, Blockchain
+      </p>
+      <p>
+        <b>Focus:</b> Clean architecture, RESTful APIs, cloud storage, certificate authenticity, and tamper-resistant records
+      </p>
     </td>
     <td width="33%" valign="top">
       <h3>🏸 Badminton Booking Platform</h3>
@@ -107,7 +114,6 @@ My goal is to turn student projects and ideas into products that feel practical,
 
 ## 📊 GitHub Signal
 
-> I removed the unstable `github-readme-stats` cards here to avoid broken images on the profile.
 
 <div align="center">
 
